@@ -1,0 +1,73 @@
+ID,Nombres,Es
+Escena1_Narracion1,narracion1,Marinette esta persiguiendo a Lyla tras haberla visto robar el libro de Adrien en la biblioteca del colegio.
+Escena1_Narracion2,narracion2,Marinette llega a la plaza aun siguiendo a Lyla.
+Escena2_Narracion1,,Con su celular nota que Lyla tiene un collar y el libro de Adrien.
+Escena2_Narracion2,,Adrien tambien llega a la plaza y se acerca a Lyla.
+Escena2_Narracion3,,Tikki intrigada le dice a Marinette que quiere ver el libro para investigar mas sobre lo que esta pasando.
+Escena2_Dialogo1,Lyla,Ladybug no solo me salvo la vida sino que somos mejores amigas  y tenemos algo en comun yo soy la descendiente de una superheroina llamada volpina.
+Escena3_Narracion1,narracion5,Lyla continua mintiendo asegurando que ella es una superheroina y mostrando a Adrien un collar que segun ella es un Miraculous.
+Escena3_Narracion2,narracion6,Adrien parece confundido pero escucha atentamente.
+Escena3_Narracion3,narracion7,Al ver esto Marinette se molesta cada vez mas sintiendo que las mentiras de Lyla estan fuera de control.
+Escena3_Narracion4,narracion8,Furiosa y decidida a poner fin a la farsa se aleja rapidamente para transformarse en Ladybug.
+Escena4_Narracion1,narracion9,Lady bug llega donde esta Lyla y Adrien.
+Escena4_Dialogo1,Ladybug,Hola Lyla Como va todo Vi tu entrevista en el Lady Blog... Escuche que te salve la vida. Ay Lyla... Cuando dices que te salve no lo recuerdo.
+Escena4_Dialogo2,Ladybug,Ah claro NUNCA y por cierto no somos amigas.
+Escena5_Dialogo1,Lyla,Como te atreves
+Escena5_Dialogo2,Adrien,Lyla
+Escena5_Narracion1,narracion4,Lyla es akumatizada y se transforma en Volpina.
+Escena6_Narracion1,narracion10,Usando sus poderes de ilusion engaña a toda Paris haciendoles creer que es una superheroina.
+Escena7_Narracion1,narracion11,Ladybug descubre que Volpina es Lyla akumatizada y sus poderes son de ilusion.
+Escena8_Pregunta,pregunta12,Que deberian hacer los heroes
+Escena8_OpcionA,A,Desmentir sus mentiras
+Escena8_OpcionB,B,Enfrentar a Volpina directamente.
+Escena9_Narracion1,narracion,Ladybug y Cat Noir llegan al lugar y se enteran de que Volpina es Lyla akumatizada.
+Escena9_Dialogo1,Ladybug,Atencion todo Necesitamos hablar sobre Volpina.
+Escena9_Dialogo2,Cat Noir,No es una verdadera superheroina. Es una akumatizacion y no tiene buenas intenciones.
+Escena9_Dialogo3,Ciudadano,Pero la vimos detener un meteorito
+Escena9_Dialogo4,Ladybug,Eso es parte de su ilusion. Ella manipula lo que ven.
+Escena9_Dialogo5,Cat Noir,No se dejen enganar por sus trucos.
+Escena9_Dialogo6,Volpina,Silencio nadie les cree a ustedes Soy Volpina la mejor superheroina de Paris Ustedes no son verdaderos heroes.
+Final1_Escena1_Dialogo1,Ladybug,Escuchen Volpina es Lyla akumatizada no es una heroina es una mentirosa usando ilusionones.
+Final1_Escena1_Dialogo2,Volpina,Nadie te cree Ladybug. Yo soy la verdadera protectora de Paris
+Final1_Escena1_Narracion1,narracion,Volpina crea ilusiones que muestran a Ladybug y Cat Noir colaborando con Hawk Moth.
+Final1_Escena1_Dialogo3,Ciudadano,Miren estan ayudando a Hawk Moth Nos han enganado
+Final1_Escena1_Dialogo4,Ladybug,Es una ilusion no caigan en sus mentiras.
+Final1_Escena1_Dialogo5,Cat Noir,No podemos dejar que nos venza con sus trucos. Tenemos que detenerla ahora.
+Final1_Escena1_Dialogo6,Volpina,Demasiado tarde Ahora todos creen en mi. Yo soy la unica heroina de Paris.
+Final1_Escena2_Narracion1,narracion13,Volpina lanza un ataque sorpresa. Ladybug y Cat Noir se ven atrapados por una red ilusoria creada por ella.
+Final1_Escena2_Dialogo1,Volpina,Y ahora... los verdaderos heroes no tendran poder. Se acerca y con una habil maniobra les quita los Miraculous a Ladybug y Cat Noir.
+Final1_Escena2_Dialogo2,Ladybug,No
+Final1_Escena2_Dialogo3,Catnoir,Ladybug
+Final1_Escena2_Dialogo4,Volpina,Ahora que tengo el poder Paris sera mio. Y nadie podra detenerme.
+Escena10_Dialogo1,Cat Noir,Volpina esta enganando a todos pero no tenemos tiempo para desenredar sus mentiras.
+Escena10_Dialogo2,Ladybug,Tienes razon. No podemos dejar que sus ilusiones sigan causando caos en Paris. Si perdemos tiempo discutiendo Hawk Moth ganara.
+Escena10_Dialogo3,Cat Noir,Entonces vamos por la via rapida
+Escena10_Dialogo4,Ladybug,Si. Vamos a detenerla de una vez. Las mentiras se derrumbaran cuando acabemos con el akuma.
+Escena10_Dialogo5,Volpina,De verdad creen que pueden detenerme tan facilmente Yo soy la heroina que Paris necesita
+Escena11_Dialogo1,Cat Noir,Claro claro... porque las heroinas reales siempre mienten verdad.
+Escena11_Dialogo2,Ladybug,Lo unico que necesitamos es acabar con esa ilusion y la verdad saldra sola.
+Escena11_Pregunta2,pregunta2,Como podrian detenerla
+Escena11_opcionA,A,Atraparla en su propia trampa
+Escena11_opcionB,B,Buscar el objeto con el akuma.
+Escena12_Dialogo1,Ladybug,susurrando a Cat Noir Sabemos que todo lo que hace son ilusiones. Si jugamos bien nuestras cartas podemos hacer que caiga en su propia trampa.
+Escena12_Dialogo2,Volpina,creando una ilusion de un gran desastre en la ciudad  Miren Sin mi Paris estaria en ruinas Yo soy la unica que puede salvarlos.
+Escena12_Dialogo3,Ladybug, fingiendo desesperacion  No Volpina por favor Ayudanos.
+Escena12_Dialogo4,Cat Noir,Parece que tienes razon No podemos manejar esto sin ti.
+Escena12_Dialogo5,Volpina,Sabia que al final reconocerian mi poder.
+Final2_Escena13_Dialogo1,Ladybug,aprovechando la distraccion . Ahora Cat Noir
+Final2_Escena13_Dialogo2,Cat Noir,Usando su Cataclismo para romper la estructura .Cataclismo
+Final2_Escena13_Dialogo3,Volpina,sorprendida queda encerrada .Esto no puede estar pasando
+Final2_Escena13_Dialogo4,Ladybug,Te atrapamos Lyla. Caite en tu propia trampa.
+Final2_Escena13_Dialogo5,Cat Noir,Parece que no eres tan lista como pensabas.
+Final2_Escena13_Dialogo6,Volpina,No...
+Final2_Escena13_Dialogo7,Ladybug,No mas maldades para ti mariposita  es hora de terminal con la maldad purificando el akuma miraculous ladybug no mas maldades para ti mariposita  es hora de terminal con la maldad purificando el akuma  miraculous ladybug.
+Final2_Escena14_Dialogo1,Ladybug,Ganamos.
+;;
+Final3_Escena15_Dialogo1,Volpina,Jamas me atraparan Mis ilusiones son invencibles
+Final3_Escena15_Dialogo2,Cat Noir,Sabes que No me apetece jugar con hologramas hoy.
+Final3_Escena15_Dialogo3,Ladybug,Yo tampoco. Sabemos que el akuma esta en su collar. Solo tenemos que ignorar el resto.
+Final3_Escena15_Dialogo4,Ladybug,Vamos Cat Noir el collar
+Final3_Escena15_Dialogo5,Ladybug,Lo tengo.
+Final3_Escena15_Dialogo6,Cat Noir,eso fue rapido Buen trabajo Ladybug.
+Final3_Escena15_Dialogo7,ladybug,no mas maldades para ti mariposita es hora de terminal con la maldad purificando el akuma Miracolous Ladybug.
+;;
